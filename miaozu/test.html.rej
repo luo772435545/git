@@ -1,0 +1,16 @@
+diff a/miaozu/test.html b/miaozu/test.html	(rejected hunks)
+@@ -9,6 +9,13 @@
+ 	<span>one分支</span>
+ 	<div><span>开发新功能</span><span>开发2</span><span></span></div>
+ 	<div>功能开发完毕</div>
++	<div>功能开发完毕</div>
++	<div>功能开发完毕</div>
++	<div>功能开发完毕</div>
++	<div>功能开发完毕</div>
++	<div>功能开发完毕</div>
++	<div>功能开发完毕</div>
++	<div>功能开发完毕</div>
+ 	<a href="">asda</a>
+ </body>
+ </html>
+\ No newline at end of file
